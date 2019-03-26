@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Module": "SalaryPayment",
+    "Dropdown": [
+      {
+        "Key": "Cash",
+        "Value": "1",
+        "OptionString": ""
+      },
+      {
+        "Key": "Bank",
+        "Value": "0",
+        "OptionString": ""
+      }
+    ]
+  }
+]

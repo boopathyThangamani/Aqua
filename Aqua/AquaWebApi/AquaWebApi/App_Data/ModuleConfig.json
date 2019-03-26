@@ -1,0 +1,34 @@
+﻿  [
+    {
+      "Key": "SalaryDeclaration",
+      "Value": "saldec"
+    },
+    {
+      "Key": "SalaryPayment",
+      "Value": "salpay"
+    },
+    {
+      "Key": "Department",
+      "Value": "dept"
+    },
+    {
+      "Key": "AccountGroupMaster",
+      "Value": "acc"
+    },
+    {
+      "Key": "AccountMaster",
+      "Value": "acc"
+    },
+    {
+      "Key": "AccountTypeMaster",
+      "Value": "accmaster"
+    },
+    {
+      "Key": "Entitlement",
+      "Value": "ent"
+    },
+    {
+      "Key": "UserMaster",
+      "Value": "user"
+    }
+  ]
